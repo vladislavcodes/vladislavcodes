@@ -4,11 +4,11 @@ I am a beginner developer. I study at <strong>BIT college</strong>  as a program
 ## Current Projects <br/>
 > 📦 [Amazon-clone] - Soon in the GitHub
 
-## Мои ценности
-🧠 Вдумчивое и комплексное развитие <br/>
-🖤 Аутентичное выражение <br/>
-💡 Мысли об обучении и любопытстве <br/>
-🙌 Работа в команде и общение <br/>
+## My Values
+🧠 Thoughtful decision making <br/>
+🖤 Authentic Expression <br/>
+💡 Mindset of Learning & Curiosity <br/>
+🙌 Teamwork & Communication
 🎵 Музыка - моя жизнь
 
 ## Hobbies
