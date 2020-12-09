@@ -8,8 +8,8 @@ I am a beginner developer. I study at <strong>BIT college</strong>  as a program
 🧠 Thoughtful decision making <br/>
 🖤 Authentic Expression <br/>
 💡 Mindset of Learning & Curiosity <br/>
-🙌 Teamwork & Communication
-🎵 Музыка - моя жизнь
+🙌 Teamwork & Communication <br/>
+🎵 Music is my Life
 
 ## Hobbies
 ☕️ Espresso/Latte/Cappuccino Enthusiast <br/>
