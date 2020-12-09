@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I'm Vlad 👋🏻
+I am a beginner developer. I study at <strong>BIT college</strong>  as a programmer.
 
-<!--
-**vladislavcodes/vladislavcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Projects <br/>
+> 📦 [Amazon-clone] - Soon in the GitHub
 
-Here are some ideas to get you started:
+## Мои ценности
+🧠 Вдумчивое и комплексное развитие <br/>
+🖤 Аутентичное выражение <br/>
+💡 Мысли об обучении и любопытстве <br/>
+🙌 Работа в команде и общение <br/>
+🎵 Музыка - моя жизнь
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies
+☕️ Espresso/Latte/Cappuccino Enthusiast <br/>
+🏋🏻‍♀️Avid  jock </br>
+😴 Sleep lover
+
+## Connect with Me
+- [Instagram](https://www.instagram.com/vladislav_henkel/) <br/>
+- [Facebook](https://www.facebook.com/vladislav.henkel.3) <br/>
+- [Twitter](https://twitter.com/vladhenkel) <br/>
