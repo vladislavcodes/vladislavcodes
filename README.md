@@ -27,4 +27,4 @@ I am a beginner developer. I study at <strong>BIT college</strong>  as a program
 - [Instagram](https://www.instagram.com/vladislav_henkel/) <br/>
 - [Facebook](https://www.facebook.com/vladislav.henkel.3) <br/>
 - [Twitter](https://twitter.com/vladhenkel) <br/>
-- [LinkedIn] <strong>Soon...</strong>
+- LinkedIn <strong>Soon...</strong>
