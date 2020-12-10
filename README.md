@@ -4,13 +4,6 @@ I am a beginner developer. I study at <strong>BIT college</strong>  as a program
 ## Current Projects <br/>
 > 📦 [Amazon-clone] - Soon in the GitHub
 
-## Technologies 
-- Python (Django) <br/>
-- Html/Css/JavaScript <br/>
-- React/NodeJS
-- Git/Bash
-- MySql/Postgres
-
 ## My Values
 🧠 Thoughtful decision making <br/>
 🖤 Authentic Expression <br/>
