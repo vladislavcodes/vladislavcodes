@@ -2,8 +2,8 @@
 I am a beginner developer. I study at <strong>BIT college</strong>  as a programmer.
 
 ## Current Projects <br/>
-> 📦 [Amazon-clone] - Soon in the GitHub <br/>
-> 📃 [ToDo-App (on Django)] - Soon in the GitHub
+> 📦 Amazon-clone - Soon in the GitHub <br/>
+> 📃 ToDo-App (on Django) - Soon in the GitHub
 
 ## My Values
 🧠 Thoughtful decision making <br/>
