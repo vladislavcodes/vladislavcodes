@@ -2,7 +2,7 @@
 I am a beginner developer. I study at <strong>BIT college</strong>  as a programmer.
 
 ## Current Projects <br/>
-> 📦 Amazon-clone - Soon in the GitHub <br/>
+> 📦 [Amazon-clone](https://github.com/vladislavcodes/amazon-clone) <br/>
 > 📃 ToDo-App (on Django) - Soon in the GitHub
 
 ## My Values
