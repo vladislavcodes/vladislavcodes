@@ -2,7 +2,7 @@
 I am a beginner developer. I study at <strong>BIT college</strong>  as a programmer.
 
 ## What's going on now? <br/>
-<a href="https://www.coursera.org/learn/machine-learning?" target="_blank"> <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png?auto=format%2Ccompress&dpr=1&w=56px&h=56px&auto=format%2Ccompress&dpr=1&w=&h=" width="40" height="40"/>
+<a href="https://www.coursera.org/learn/machine-learning?" target="_blank">Machine Learning by Stanford University<img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png?auto=format%2Ccompress&dpr=1&w=56px&h=56px&auto=format%2Ccompress&dpr=1&w=&h=" width="40" height="40"/>
 
 
 ## My Values
