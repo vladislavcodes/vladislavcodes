@@ -5,6 +5,9 @@ I am a beginner developer. I study at <strong>BIT college</strong>  as a program
 <a href="https://www.coursera.org/learn/machine-learning?" target="_blank"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/xdp/partnerLogos/svg/stanford.svg?auto=format%2Ccompress&dpr=1&h=70" width="150" height="80"/> <br/>
 <a href="https://www.coursera.org/learn/html-css-javascript-for-web-developers?" target="_blank"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/xdp/jhu_v3.svg?auto=format%2Ccompress&dpr=1&h=50" width="150" height="30"/> <br/>
 
+## Technologies/Tools that I have worked with :
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+
 ## My Values
 🧠 Thoughtful decision making <br/>
 🖤 Authentic Expression <br/>
