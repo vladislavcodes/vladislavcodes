@@ -2,7 +2,7 @@
 I am a beginner developer. I study at <strong>BIT college</strong>  as a programmer.
 
 ## What courses have I take(n)? <br/>
-<a href="https://www.coursera.org/learn/machine-learning?" target="_blank"><img src="" width="50" height="50"/> </a>
+<a href="https://www.coursera.org/learn/machine-learning?" target="_blank"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png?auto=format%2Ccompress&dpr=1&w=56px&h=56px&auto=format%2Ccompress&dpr=1&w=&h=" width="50" height="50"/>
 <a href="https://www.coursera.org/learn/html-css-javascript-for-web-developers?" target="_blank"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/74/7ae340ec6911e5b395490a2a565172/JHU-Logo-Square-Mini_180px.png?auto=format%2Ccompress&dpr=1&w=56px&h=56px&auto=format%2Ccompress&dpr=1&w=&h=" width="50" height="50"/>
 
 ## Technologies/Tools that I have worked with :
