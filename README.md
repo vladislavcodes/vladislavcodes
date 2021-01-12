@@ -1,8 +1,8 @@
 # Hi there, I'm Vlad 👋🏻
 I am a beginner developer. I study at <strong>BIT college</strong>  as a programmer.
 
-## What's going on now? <br/>
-<a href="https://www.coursera.org/learn/machine-learning?" target="_blank"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/xdp/partnerLogos/svg/stanford.svg?auto=format%2Ccompress&dpr=1&h=70" width="150" height="80"/><p>Taking a course in machine learning from Stanford University</p>
+## What courses have I take(n)? <br/>
+<a href="https://www.coursera.org/learn/machine-learning?" target="_blank"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/xdp/partnerLogos/svg/stanford.svg?auto=format%2Ccompress&dpr=1&h=70" width="150" height="80"/>
 
 
 ## My Values
