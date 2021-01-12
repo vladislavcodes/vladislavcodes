@@ -2,8 +2,8 @@
 I am a beginner developer. I study at <strong>BIT college</strong>  as a programmer.
 
 ## What courses have I take(n)? <br/>
-<a href="https://www.coursera.org/learn/machine-learning?" target="_blank"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/xdp/partnerLogos/svg/stanford.svg?auto=format%2Ccompress&dpr=1&h=70" width="150" height="80"/>
-
+<a href="https://www.coursera.org/learn/machine-learning?" target="_blank"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/xdp/partnerLogos/svg/stanford.svg?auto=format%2Ccompress&dpr=1&h=70" width="150" height="80"/> <br/>
+<a href="https://www.coursera.org/learn/html-css-javascript-for-web-developers?" target="_blank"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/xdp/jhu_v3.svg?auto=format%2Ccompress&dpr=1&h=50" width="150" height="80"/> <br/>
 
 ## My Values
 🧠 Thoughtful decision making <br/>
