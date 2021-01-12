@@ -2,7 +2,7 @@
 I am a beginner developer. I study at <strong>BIT college</strong>  as a programmer.
 
 ## What courses have I take(n)? <br/>
-<a href="https://www.coursera.org/learn/machine-learning?" target="_blank"> <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png?auto=format%2Ccompress&dpr=1&w=56px&h=56px&auto=format%2Ccompress&dpr=1&w=&h=" width="80" height="80"/> 
+<a href="https://www.coursera.org/learn/machine-learning?" target="_blank"> <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png?auto=format%2Ccompress&dpr=1&w=56px&h=56px&auto=format%2Ccompress&dpr=1&w=&h=" width="100" height="100"/> 
 <a href="https://www.coursera.org/learn/html-css-javascript-for-web-developers?" target="_blank"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/74/7ae340ec6911e5b395490a2a565172/JHU-Logo-Square-Mini_180px.png?auto=format%2Ccompress&dpr=1&w=56px&h=56px&auto=format%2Ccompress&dpr=1&w=&h=" width="80" height="80"/>
 <a href="https://www.udemy.com/course/self-taught-programmer/" target="_blank"><img src="https://img-a.udemycdn.com/course/240x135/1145562_f53d_2.jpg?8e-1wRwtGv5Hed6vN6VuuCS3MJL6RSWzMSn_riG5ZdSgYFrBPrEbUaFHFXfZQBWTNb1QlLXd_v_diWVVfAORMJ2DfT3LYxYRhTMCOO7Qg9R5uYrsMWJVB8tcO7l8jg" width="80" height="80"/>
 
