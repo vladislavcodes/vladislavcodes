@@ -19,7 +19,7 @@ I am a beginner cs expert.
 
 ## Hobbies
 ☕️ Espresso/Latte/Cappuccino Enthusiast <br/>
-🏋🏻‍♀️Avid  jock </br>
+🏋🏻‍Avid  jock </br>
 😴 Sleep lover
 
 ## Connect with Me
