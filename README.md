@@ -8,9 +8,8 @@ I am a beginner cs expert.
 
 ## My Values
 🧠 Thoughtful decision making <br/>
-🖤 Authentic Expression <br/>
 💡 Mindset of Learning & Curiosity <br/>
-🙌 Teamwork & Communication <br/>
+🤝 Teamwork & Communication <br/>
 🎵 Music is my Life
 
 ## Hobbies
@@ -22,9 +21,9 @@ I am a beginner cs expert.
 - [Instagram](https://www.instagram.com/vladislav_henkel/) <br/>
 - [Facebook](https://www.facebook.com/vladislav.henkel.3) <br/>
 - [VKontakte](https://vk.com/vladislavcodes) <br/>
-- [Twitter](https://twitter.com/vladhenkel) <br/>
+- [Twitter](https://twitter.com/vladislav_codes) <br/>
 - LinkedIn <strong>Soon...</strong>
-- Portfolio <strong>Soon...</strong>
+- Web-site <strong>Soon...</strong>
 
 
 <h3><blow>Follow Me!<blow/><h3/>
