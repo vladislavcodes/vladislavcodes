@@ -2,7 +2,7 @@
 I am a beginner cs expert.
 
 ## Current Projects:
-=> https://vladislavcodes.github.io/AINewsV1.0/
+[AI News](https://vladislavcodes.github.io/AINewsV1.0/)
 
 ## Technologies/Tools that I have worked with:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="max-width:100%;"/> </a>
