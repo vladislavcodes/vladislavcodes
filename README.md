@@ -2,7 +2,7 @@
 I am a beginner cs expert.
 
 ## Current Projects:
-[DEV News](https://github.com/vladislavcodes/DEVNewsV1.0)
+<a href="https://vladislavcodes.github.io/DEVNewsV1.0/" rel="nofollow"> <img src="images/whiteDEV.png" alt="DEVnews" width="70" height="80" style="max-width:100%;"> </a>
 
 ## Technologies/Tools that I have worked with:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="max-width:100%;"/> </a>
