@@ -18,7 +18,8 @@ I am a beginner SE. I am interested about Computer Science, Algorithms and UI/UX
 ## Hobbies
 ☕️ Espresso/Latte/Cappuccino Enthusiast <br/>
 🏋🏻‍Avid  jock </br>
-😴 Sleep lover
+😴 Sleep lover </br>
+🛋️ Sofa critic
 
 ## Connect with Me
 - [Instagram](https://www.instagram.com/vladislav_henkel/) <br/>
