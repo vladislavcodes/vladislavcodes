@@ -27,7 +27,7 @@ I am a beginner SE. I am interested about Computer Science, Algorithms and UI/UX
 - [VKontakte](https://vk.com/vladislavcodes) <br/>
 - [Twitter](https://twitter.com/vladislav_codes) <br/>
 - LinkedIn <strong>Soon...</strong>
-- Web-site <strong>Soon...</strong>
+- [DevNews](https://vladislavcodes.github.io/DEVNewsV1.0/) "In progress!"
 
 
 <h3><blow>Follow Me!<blow/><h3/>
