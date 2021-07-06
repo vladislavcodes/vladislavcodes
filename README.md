@@ -29,7 +29,7 @@
 - [VKontakte](https://vk.com/vladislavcodes) <br/>
 - [Twitter](https://twitter.com/vladislav_codes) <br/>
 - LinkedIn <strong>Soon...</strong>
-- [DevNews](https://vladislavcodes.github.io/DEVNewsV1.0/) "In progress!"
+- [DevNews](https://vladislavcodes.github.io/DEVNewsV1.0/) "Frozen 🥶"
 
 
 <h3><blow>Follow Me!<blow/><h3/>
