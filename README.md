@@ -1,7 +1,7 @@
 # Hello there, I'm Vlad 👋🏻
 ![Forest](https://thumbs.gfycat.com/BeneficialShamelessAmphiuma-max-1mb.gif)
 
-I am a beginner SE. I am interested about Computer Science, Algorithms and UI/UX Design. an unusual stuff isn't it? :D
+<strong>I am a beginner SE. I am interested about Computer Science, Algorithms and UI/UX Design. an unusual stuff isn't it? :D</strong>
 
 ## Current Projects:
 <a href="https://vladislavcodes.github.io/DEVNewsV1.0/" rel="nofollow"> <img src="images/whiteDEV.png" alt="DEVnews" width="70" height="80" style="max-width:100%;"> </a>
