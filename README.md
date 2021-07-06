@@ -4,7 +4,7 @@
 <strong>I am a beginner SE. I am interested about Computer Science, Algorithms and UI/UX Design. an unusual stuff isn't it? :D</strong>
 
 ## Current Projects:
-<a href="https://vladislavcodes.github.io/DEVNewsV1.0/" rel="nofollow"> <img src="images/whiteDEV.png" alt="DEVnews" width="70" height="80" style="max-width:100%;"> </a>
+...
 
 ## Technologies/Tools that I have worked with:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="max-width:100%;"/> </a>
