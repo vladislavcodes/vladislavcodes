@@ -1,5 +1,5 @@
 # Hello there, I'm Vlad 👋🏻
-<img src="https://thumbs.gfycat.com/BeneficialShamelessAmphiuma-max-1mb.gif" width="100" height="70" />
+<img src="https://thumbs.gfycat.com/BeneficialShamelessAmphiuma-max-1mb.gif" width="250" height="150" />
 
 <strong>I am a beginner SE. I am interested about Computer Science, Algorithms and UI/UX Design. an unusual stuff isn't it? :D</strong>
 
