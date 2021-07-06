@@ -1,5 +1,5 @@
 # Hi there, I'm Vlad 👋🏻
-![Forest](https://steamuserimages-a.akamaihd.net/ugc/1594792599270105893/99923D928B43180A8062DC6684F64EB8AAE3E029/)
+![Forest](https://thumbs.gfycat.com/BeneficialShamelessAmphiuma-max-1mb.gif)
 
 I am a beginner SE. I am interested about Computer Science, Algorithms and UI/UX Design. an unusual stuff isn't it? :D
 
