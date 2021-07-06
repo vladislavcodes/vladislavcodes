@@ -1,4 +1,4 @@
-# Hi there, I'm Vlad 👋🏻
+# Hello there, I'm Vlad 👋🏻
 ![Forest](https://thumbs.gfycat.com/BeneficialShamelessAmphiuma-max-1mb.gif)
 
 I am a beginner SE. I am interested about Computer Science, Algorithms and UI/UX Design. an unusual stuff isn't it? :D
